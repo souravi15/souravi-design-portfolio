@@ -1,1 +1,2 @@
-# souravi-design-portfolio
+# souraviportfolio
+UI/UX Designer/Developer

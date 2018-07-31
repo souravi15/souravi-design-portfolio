@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1000px" viewBox="0 0 1024 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-4" stroke="#50E3C2" stroke-width="4" fill-rule="nonzero" transform="translate(236.055614, 110.835431) rotate(48.000000) translate(-236.055614, -110.835431) " x="175.055614" y="62.3403811" width="122" height="96.990099"></rect>
+        <rect id="Rectangle-4-Copy" stroke="#B8E986" stroke-width="4" fill-rule="nonzero" transform="translate(798.055614, 435.587906) rotate(48.000000) translate(-798.055614, -435.587906) " x="737.055614" y="387.092856" width="122" height="96.990099"></rect>
+        <rect id="Rectangle-4-Copy-2" stroke="#86B1E9" stroke-width="4" fill-rule="nonzero" transform="translate(305.055614, 971.038847) rotate(48.000000) translate(-305.055614, -971.038847) " x="244.055614" y="922.543798" width="122" height="96.990099"></rect>
+        <ellipse id="Oval" stroke="#86B1E9" stroke-width="4" fill-rule="nonzero" cx="205" cy="604.950495" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy-8" stroke="#DC86E9" stroke-width="4" fill-rule="nonzero" cx="392" cy="293.069307" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy-7" stroke="#DC86E9" stroke-width="4" fill-rule="nonzero" cx="1017" cy="553.465347" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy-4" stroke="#E350B4" stroke-width="4" fill-rule="nonzero" cx="953" cy="939.60396" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy-5" stroke="#86E9B4" stroke-width="4" fill-rule="nonzero" cx="79.5" cy="950.990099" rx="26.5" ry="26.2376238"></ellipse>
+        <ellipse id="Oval-Copy-6" stroke="#86B1E9" stroke-width="4" fill-rule="nonzero" cx="897" cy="118.811881" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy" stroke="#E9D786" stroke-width="4" fill-rule="nonzero" cx="582" cy="0" rx="38" ry="37.6237624"></ellipse>
+        <ellipse id="Oval-Copy-2" stroke="#E9D786" stroke-width="4" fill-rule="nonzero" cx="592" cy="790.09901" rx="28" ry="27.7227723"></ellipse>
+        <ellipse id="Oval-Copy-3" stroke="#E98686" stroke-width="4" fill-rule="nonzero" cx="42" cy="218.811881" rx="28" ry="27.7227723"></ellipse>
+        <polygon id="Triangle" stroke="#E98686" stroke-width="2" fill-rule="nonzero" transform="translate(532.415836, 602.787957) rotate(33.000000) translate(-532.415836, -602.787957) " points="532.415836 568.134491 567.415836 637.441422 497.415836 637.441422"></polygon>
+        <polygon id="Triangle-Copy" stroke="#E98686" stroke-width="2" fill-rule="nonzero" transform="translate(682.000000, 164.356436) rotate(-270.000000) translate(-682.000000, -164.356436) " points="682 185.148515 661 143.564356 703 143.564356"></polygon>
+        <polygon id="Triangle-Copy-2" stroke="#E9D786" stroke-width="2" fill-rule="nonzero" transform="translate(118.000000, 394.059406) scale(-1, 1) rotate(-270.000000) translate(-118.000000, -394.059406) " points="118 414.851485 97 373.267327 139 373.267327"></polygon>
+        <polygon id="Triangle-Copy-3" stroke="#86E9B4" stroke-width="2" fill-rule="nonzero" transform="translate(870.332847, 734.983017) scale(-1, 1) rotate(-414.000000) translate(-870.332847, -734.983017) " points="870.332847 755.775096 849.332847 714.190938 891.332847 714.190938"></polygon>
+        <polygon id="Triangle-Copy-4" stroke="#DC86E9" stroke-width="2" fill-rule="nonzero" transform="translate(661.402725, 938.022500) scale(-1, 1) rotate(-457.000000) translate(-661.402725, -938.022500) " points="661.402725 958.81458 640.402725 917.230421 682.402725 917.230421"></polygon>
+        <polygon id="Triangle-Copy-5" stroke="#E350B4" stroke-width="2" fill-rule="nonzero" transform="translate(385.402725, 766.735372) scale(-1, 1) rotate(-457.000000) translate(-385.402725, -766.735372) " points="385.402725 787.527451 364.402725 745.943292 406.402725 745.943292"></polygon>
+        <text id="I'm-a-passionate-des" font-family="OpenSans-Regular, Open Sans" font-size="36" font-weight="normal" line-spacing="57" fill="#000000">
+            <tspan x="233.587891" y="396">I'm a passionate designer with 2+ </tspan>
+            <tspan x="278.130859" y="453">experience in designing and </tspan>
+            <tspan x="198.080078" y="510">developing user experiences (UX) and </tspan>
+            <tspan x="235.600586" y="567">user interfaces (UI) for web apps. </tspan>
+        </text>
+    </g>
+</svg>

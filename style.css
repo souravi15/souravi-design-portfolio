@@ -1,0 +1,722 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin:0 auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+/* for mobile */
+@media (min-width: 320px) and (max-width: 600px) {
+
+	header{
+	 	margin: 10px auto;
+	    max-width: 320px;
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	}
+
+ 	.header-logo{
+	 	width: 100px;
+	    height: 100px;
+	    padding-bottom: 20px
+ 	}
+
+ 	.header-nav-right{
+ 		display: flex;
+ 		flex-direction: row;
+ 		font-weight: 100;
+    	font-size: 12px;
+ 	}
+
+ 	.header-case-studies{
+		padding-right: 50px;
+	}
+  	.main-about{
+		width: 100%;
+	    height: 145px;
+	    margin: 0;
+	    background-color: #F2F2F2;
+	    text-align: center;
+	}
+
+	.main-about-name{
+	margin-bottom: 0;
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+    padding-top: 10px;
+	}
+
+	.main-about-designation{
+	font-size: 1em;
+    margin: 10px 0 0 0;
+    font-weight: 100;
+	}
+
+	.main-about-availibility{
+    margin-top: 10px;
+    letter-spacing: 1px;
+    font-size: 0.8em;
+	}
+
+	.main-about-availibility-color{
+	    height: 10px;
+	    width: 10px;
+	    background-color:#86e98a;
+	    border-radius: 50%;
+	    display: inline-block;
+	}
+
+	.about-me{
+	width: 100%;
+    height: 30vh;
+	}
+
+	.number-one-image,.number-two-image{
+	margin: 0 30%;
+	width: 105px;
+	height: 102px;
+	}
+
+	.case-studies-one-title,.case-studies-two-title{
+		margin: 0 auto;
+	    max-width: 320px;
+	    font-size: 1em;
+	   
+	}
+
+	.case-studies-one-title-name,.case-studies-two-title-name{
+		border: 2px solid #C8FAF0;
+	}
+
+	.challenge,.challenge2,.competitive-research2,.crowdgif{
+		max-width: 320px;
+		display: block;
+    margin: 0 auto;
+	}
+
+	.discovery, .final-prototype{
+		margin: 0 auto;
+	    max-width: 320px;
+	    text-align: left;
+	    font-size: 0.8em;
+	}
+
+	.discovery-title,.userflows-title,.userflows-flora{
+		font-weight: 600;
+		text-align: center;
+		font-size: 1em;
+		}
+
+	.userflows-flora{
+		font-size: 0.8em;
+	}
+	.competitive-research,.userflowsimg{
+		max-width: 320px;
+	}
+
+	.prototypegif,.filtergif,.flo1gif,.flo2gif{
+		max-width: 320px;
+		max-height:  616px;
+		border:2px solid black;
+		
+	}
+	.discovery-two{
+		margin-right: 0 auto;
+	}
+
+	footer{
+	background-color: #F2F2F2;
+	padding: 10px;
+	margin: 0;
+	}
+
+	.flexlogos{
+		margin: 0 auto;
+		max-width: 320px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
+	.logo{
+		width: 20px;
+		height: 20px;
+	}
+	.copy{
+		text-align: center;
+	    margin: 10px auto 0 auto;
+	    font-size: 5px;
+		}
+}
+
+/* laptops and tabs*/
+@media (min-width: 601px) and (max-width: 1200px){
+.header-logo{
+	width: 100px;
+	height: 100px;
+	margin: 30px 0 0 30px;
+}
+
+.header-nav-right{
+	float: right;
+	margin: 30px 95px 0 0;
+}
+
+.header-case-studies{
+padding-right: 80px;
+}
+
+.main-about-availibility-color{
+    height: 10px;
+    width: 10px;
+    background-color:#86e98a;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.main-about{
+	width: 100%;
+    height: 80vh;
+    margin: 0;
+    background-color: #F2F2F2;
+}
+
+.main-about-name{
+	font-family: 'Playfair Display', serif;
+    font-size: 112px;
+    text-align: center;
+    padding-top: 246px;
+    margin-bottom: 0;
+}
+.main-about-designation{
+	text-align: center;
+    margin-top: 10px;
+    margin-bottom:0; 
+    position: relative;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.main-about-availibility{
+	    text-align: center;
+    margin-top: 11px;
+    letter-spacing: 1px;
+}
+
+.about-me{
+	width: 100%;
+    height: 70vh;
+}
+
+.case-studies{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.number-one-image,.number-two-image{
+	width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
+
+.challenge,.challenge2{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+.case-studies-one-title,.case-studies-two-title{
+	margin: 0 auto;
+    max-width: 1200px;
+    font-size: 30px;
+   
+}
+
+.case-studies-one-title-name,.case-studies-two-title-name{
+	border: 2px solid #C8FAF0;
+}
+
+.case-studies-two-project-intro{
+	margin-left: 23%;
+}
+
+.competitive-research,.competitive-research2,.crowdgif{
+	max-width: 500px;
+	display: block;
+    margin: 10px auto;
+	/*max-width:672px; */
+	/*max-height:418.812px;*/
+}
+
+.discovery-one{
+	display: block;
+    width: 300px;
+    margin: 10px auto;
+}
+.discovery-title{
+	font-weight: 600;
+}
+
+.userflows-flora{
+	margin-top:40px;
+}
+
+.userflows-title{
+	font-weight: 600;
+	margin-left:10%;
+}
+
+.userflowsimg{
+	width: 477px;
+	display: block;
+	margin:0 auto;
+}
+
+/*.final-prototype{
+	margin-left: 10%;
+	margin-right:10%;
+	/*height: 681px;*/
+	/*width: 1000px;*/
+/*}
+.flexb{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 10px auto;
+}
+*/
+
+.prototypegif,.filtergif,.flo1gif,.flo2gif{
+	max-width: 360px;
+	max-height:  616px;
+	border:2px solid black;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.design-intro, .floristintro,.filterintro{
+	width : 340px;
+	display: block;
+    margin: 10px auto;
+}
+
+/*.discovery-two{
+	width: 1024px;
+    margin-top: 30px;
+}*/
+
+footer{
+	width: 100%;
+	background-color: #F2F2F2;
+	padding: 20px;
+}
+
+.flexlogos{
+	margin: 0 auto;
+	max-width: 600px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.logo{
+	width: 36px;
+	height: 36px;
+}
+.copy{
+	text-align: center;
+    margin: 20px auto;
+    font-size: 10px;
+	}
+
+}
+
+/*desktops*/
+@media (min-width: 1201px) and (max-width: 1599px){
+
+.header-logo{
+	width: 100px;
+	height: 100px;
+	margin: 30px 0 0 30px;
+}
+
+.header-nav-right{
+	float: right;
+	margin: 30px 95px 0 0;
+}
+
+.header-case-studies{
+padding-right: 80px;
+}
+
+.main-about-availibility-color{
+    height: 10px;
+    width: 10px;
+    background-color:#86e98a;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.main-about{
+	width: 100%;
+    height: 80vh;
+    margin: 0;
+    background-color: #F2F2F2;
+}
+
+.main-about-name{
+	font-family: 'Playfair Display', serif;
+    font-size: 112px;
+    text-align: center;
+    padding-top: 246px;
+    margin-bottom: 0;
+}
+.main-about-designation{
+	text-align: center;
+    margin-top: 10px;
+    margin-bottom:0; 
+    position: relative;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.main-about-availibility{
+	    text-align: center;
+    margin-top: 11px;
+    letter-spacing: 1px;
+}
+
+.about-me{
+	width: 100%;
+    height: 100vh;
+}
+
+.case-studies{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.number-one-image,.number-two-image{
+	width: 250px;
+	height: 250px;
+}
+
+.case-studies-one-title,.case-studies-two-title{
+	margin: 0 auto;
+    max-width: 1200px;
+    font-size: 60px;
+   
+}
+
+.case-studies-one-title-name,.case-studies-two-title-name{
+	border: 2px solid #C8FAF0;
+}
+
+/*.case-studies-two-project-intro{
+	margin-left: 23%;
+}                                          * check this*/
+
+.competitive-research{
+	position: relative;
+	float: right;
+	margin-right: 10%;
+	max-width: 500px;
+	/*max-width:672px; */
+	/*max-height:418.812px;*/
+}
+
+.discovery{
+	display: flex;
+	flex-direction: row;
+	margin-left: 10%;
+    margin-top:30px;
+}
+
+.discovery-one{
+	width:300px;
+	margin-right: 130px;
+}
+.discovery-title{
+	font-weight: 600;
+}
+
+.userflows-flora{
+	margin-top:40px;
+	margin-left: 10%;
+}
+
+.userflows-title{
+	font-weight: 600;
+	margin:0;
+}
+.userflowsimg{
+	width: 1000px;
+}
+
+.final-prototype{
+	margin-left: 10%;
+	margin-right:10%;
+	/*height: 681px;*/
+	width: 1000px;
+}
+.flexb{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 10px auto;
+}
+.prototypegif,.filtergif,.flo1gif,.flo2gif{
+	max-width: 360px;
+	max-height:  616px;
+	border:2px solid black;
+	margin-right: 20px;
+	
+}
+
+.design-intro, .floristintro{
+	width : 340px;
+	display: inline-block;
+	align-self: flex-start;
+    margin-right: 10px;
+}
+.filterintro{
+	width : 340px;
+	display: inline-block;
+	align-self: flex-start;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+.discovery-two{
+	width: 1024px;
+    margin-top: 30px;
+}
+
+.crowdgif{
+
+	width: 534px;
+    margin-left: 20%;
+}
+
+footer{
+	width: 100%;
+	background-color: #F2F2F2;
+	padding: 20px;
+}
+
+.flexlogos{
+	margin: 0 auto;
+	max-width: 600px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.logo{
+	width: 36px;
+	height: 36px;
+}
+.copy{
+	text-align: center;
+    margin: 20px auto;
+    font-size: 10px;
+	}
+}
+
+@media (min-width: 1600px){
+	.header-logo{
+	width: 100px;
+	height: 100px;
+	margin: 30px 0 0 30px;
+	}
+
+	.header-nav-right{
+		float: right;
+		margin: 30px 95px 0 0;
+	}
+
+	.header-case-studies{
+	padding-right: 80px;
+	}
+
+	.main-about{
+		width: 100%;
+	    height: 85vh;
+	    margin: 0;
+	    background-color: #F2F2F2;
+	}
+
+	.main-about-name{
+		font-family: 'Playfair Display', serif;
+	    font-size: 112px;
+	    text-align: center;
+	    padding-top: 246px;
+	    margin-bottom: 0;
+	}
+	.main-about-designation{
+		text-align: center;
+	    margin-top: 10px;
+	    margin-bottom:0; 
+	    position: relative;
+	    font-size: 36px;
+	    font-weight: 100;
+	}
+
+	.main-about-availibility{
+		    text-align: center;
+	    margin-top: 11px;
+	    letter-spacing: 1px;
+	}
+
+	.main-about-availibility-color{
+    height: 10px;
+    width: 10px;
+    background-color:#86e98a;
+    border-radius: 50%;
+    display: inline-block;
+	}
+
+	.about-me{
+		width: 100%;
+	    height: 100vh;
+	}
+
+	.number-one-image,.number-two-image{
+		width: 250px;
+		height: 250px;
+		margin-left: 20%;
+	}
+
+	.case-studies-one-title,.case-studies-two-title{
+		margin: 0 auto;
+	    max-width: 1200px;
+	    font-size: 60px;
+	   
+	}
+
+	.case-studies-one-title-name,.case-studies-two-title-name{
+		border: 2px solid #C8FAF0;
+	}
+
+	.challenge,.challenge2{
+		display: block;
+		margin:0 auto;
+		width: 1200px;
+	}
+
+	.competitive-research{
+	max-width: 590px;
+	max-height: 348.812px;
+	/*max-width:672px; */
+	/*max-height:418.812px;*/
+	}
+
+	.discovery{
+		display: flex;
+		flex-direction: row;
+		margin-left: 22%;
+	    margin-top:30px;
+	}
+
+	.discovery-one{
+		width:300px;
+		margin-right: 130px;
+	}
+	.discovery-title{
+		font-weight: 600;
+		font-size: 20px;
+	}
+
+	.userflows-flora{
+		margin-top:40px;
+	}
+
+	.userflows-title{
+		font-weight: 600;
+		font-size: 20px;
+    	margin-left: 22%;
+	}
+	.userflowsimg{
+		width: 1015px;
+		display: block;
+		margin:0 22%;
+	}
+
+	/*.final-prototype{
+	margin-left: 11%;
+	/*height: 681px;
+	width: 1000px;
+		}*/
+	
+	.flexb{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		margin: 10px 22%;
+    	width: 1000px;
+	}
+	.prototypegif,.filtergif,.flo1gif,.flo2gif{
+		max-width: 360px;
+		max-height:  616px;
+		border:2px solid black;
+		margin-right: 20px;
+		
+	}
+
+	.design-intro, .floristintro{
+		width : 340px;
+		display: inline-block;
+		align-self: flex-start;
+	    margin-right: 10px;
+	}
+	.filterintro{
+		width : 340px;
+		display: inline-block;
+		align-self: flex-start;
+		margin-left: 10px;
+		margin-right: 20px;
+	}
+
+	.discovery-two {
+	    display: block;
+	    width: 1024px;
+	    margin: 30px auto 0 auto;
+	}
+
+	.crowdgif{
+		width: 1024px;
+		width: 604px;
+    margin-left: 15%;
+	}
+
+	footer{
+		width: 100%;
+		background-color: #F2F2F2;
+		padding: 20px 0 5px 0;
+	}
+
+	.flexlogos{
+		margin: 0 auto;
+		max-width: 600px;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
+	.logo{
+		width: 36px;
+		height: 36px;
+	}
+	.copy{
+		text-align: center;
+	    margin: 10px auto;
+	    font-size: 10px;
+		}
+	
+}

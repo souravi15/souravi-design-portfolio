@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="878px" viewBox="0 0 1024 878" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="817" width="282" height="51"></rect>
+        <filter x="-0.2%" y="-1.0%" width="100.4%" height="102.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.592090428   0 0 0 0 0.592195213   0 0 0 0 0.592083871  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(471.000000, 7.000000)">
+            <g id="frames" transform="translate(125.000000, 0.000000)" fill-rule="nonzero">
+                <g id="browser-header" transform="translate(1.000000, 0.000000)">
+                    <rect id="Rectangle-2" fill="#D8D8D8" x="0" y="0" width="282" height="16"></rect>
+                    <ellipse id="Oval" fill="#3C8815" cx="14.5" cy="3.29411765" rx="1.5" ry="1.41176471"></ellipse>
+                    <rect id="Rectangle-3" fill="#9B9B9B" x="2" y="7.52941176" width="18" height="5.64705882"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#9B9B9B" x="262" y="7.52941176" width="18" height="5.64705882"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#9B9B9B" x="24" y="7.52941176" width="6" height="5.64705882"></rect>
+                    <rect id="Rectangle-3-Copy-3" fill="#9B9B9B" x="252" y="7.52941176" width="6" height="5.64705882"></rect>
+                    <ellipse id="Oval" fill="#F8E71C" cx="9.5" cy="3.29411765" rx="1.5" ry="1.41176471"></ellipse>
+                    <ellipse id="Oval" fill="#D0021B" cx="4.5" cy="3.29411765" rx="1.5" ry="1.41176471"></ellipse>
+                    <rect id="Rectangle-4" fill="#FFFFFF" x="32" y="6.58823529" width="218" height="6.58823529"></rect>
+                </g>
+                <rect id="Rectangle-5" fill="#D7DCEF" x="1" y="16" width="282" height="123.936523"></rect>
+                <g id="Group" transform="translate(92.000000, 44.000000)">
+                    <rect id="Rectangle-8" fill="#4A4A4A" x="15" y="52.2318841" width="71" height="15.7681159" rx="7.88405797"></rect>
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="18" y="0" width="65" height="11.826087"></rect>
+                    <rect id="Rectangle-7" fill-opacity="0.2" fill="#4A4A4A" x="0" y="21.6811594" width="101" height="7.88405797"></rect>
+                    <rect id="Rectangle-7-Copy" fill-opacity="0.2" fill="#4A4A4A" x="0" y="34.4927536" width="101" height="7.88405797"></rect>
+                </g>
+                <polygon id="Triangle" fill="#D7DCEF" points="1 433 283 292 283 574"></polygon>
+                <polygon id="Triangle-Copy" fill="#D7DCEF" transform="translate(142.000000, 577.000000) scale(-1, -1) translate(-142.000000, -577.000000) " points="1 577 283 436 283 718"></polygon>
+                <rect id="Rectangle-7" fill-opacity="0.2" fill="#4A4A4A" x="92" y="175" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-17" fill-opacity="0.2" fill="#4A4A4A" x="93" y="739" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-2" fill-opacity="0.2" fill="#4A4A4A" x="92" y="193" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-18" fill-opacity="0.2" fill="#4A4A4A" x="93" y="757" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-4" fill-opacity="0.2" fill="#4A4A4A" x="92" y="211" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-19" fill-opacity="0.2" fill="#4A4A4A" x="93" y="775" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-3" fill-opacity="0.2" fill="#4A4A4A" x="92" y="229" width="101" height="7"></rect>
+                <rect id="Rectangle-7-Copy-20" fill-opacity="0.2" fill="#4A4A4A" x="93" y="793" width="101" height="7"></rect>
+                <g id="Group-2" transform="translate(24.000000, 351.000000)" fill="#4A4A4A" fill-opacity="0.2">
+                    <rect id="Rectangle-7-Copy-5" x="0" y="0" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-6" x="0" y="8" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-7" x="0" y="16" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-8" x="0" y="24" width="50" height="3"></rect>
+                </g>
+                <g id="Group-4" transform="translate(113.500000, 351.000000)" fill="#4A4A4A" fill-opacity="0.2">
+                    <rect id="Rectangle-7-Copy-9" x="0" y="0" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-10" x="0" y="8" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-11" x="0" y="16" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-12" x="0" y="24" width="50" height="3"></rect>
+                </g>
+                <g id="Group-3" transform="translate(203.000000, 351.000000)" fill="#4A4A4A" fill-opacity="0.2">
+                    <rect id="Rectangle-7-Copy-13" x="0" y="0" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-14" x="0" y="8" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-15" x="0" y="16" width="50" height="3"></rect>
+                    <rect id="Rectangle-7-Copy-16" x="0" y="24" width="50" height="3"></rect>
+                </g>
+                <circle id="Oval-2" fill="#27325B" cx="15.5" cy="27.5" r="7.5"></circle>
+                <circle id="Oval-3" fill="#9CA6D6" cx="44.5" cy="174.5" r="20.5"></circle>
+                <circle id="Oval-3-Copy" fill="#9CA6D6" cx="232.5" cy="253.5" r="20.5"></circle>
+                <rect id="Rectangle" fill="#5465B8" opacity="0.474274554" x="33" y="449" width="220" height="109"></rect>
+                <rect id="Rectangle-8-Copy" fill="#4A4A4A" x="107" y="532" width="71" height="15" rx="7.5"></rect>
+                <rect id="Rectangle-Copy" fill="#5465B8" opacity="0.474274554" x="33" y="593" width="220" height="109"></rect>
+                <rect id="Rectangle-8-Copy-2" fill="#4A4A4A" x="108" y="677" width="71" height="15" rx="7.5"></rect>
+                <g id="Rectangle-9">
+                    <use fill="#F4F4F4" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <path d="M1.5,0.5 L1.5,866.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M283.25,0.5 L283.25,867.5" id="Line-Copy" stroke="#979797" stroke-linecap="square"></path>
+                <rect id="Rectangle-10" fill="#D8D8D8" x="24" y="318" width="50" height="30"></rect>
+                <rect id="Rectangle-10-Copy" fill="#D8D8D8" x="113.5" y="318" width="50" height="30"></rect>
+                <rect id="Rectangle-10-Copy-2" fill="#D8D8D8" x="203" y="318" width="50" height="30"></rect>
+            </g>
+            <path d="M136.5,27.5 L71.5,27.5" id="Line-2" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M394.5,76.5 L459.5,76.5" id="Line-3" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M71.5,214.25 L136.5,214.25" id="Line-3-Copy" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M394.5,345.25 L459.5,345.25" id="Line-3-Copy-2" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M71.5,506.25 L136.5,506.25" id="Line-3-Copy-3" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M394.5,650.25 L459.5,650.25" id="Line-3-Copy-4" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M71.5,771.25 L136.5,771.25" id="Line-3-Copy-5" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M394.5,846.25 L459.5,846.25" id="Line-3-Copy-6" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="Logo" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="42" y="31">Logo</tspan>
+            </text>
+            <text id="Hero-Section-(CTA)" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="470" y="76">Hero Section</tspan>
+                <tspan x="470" y="89">       (CTA)</tspan>
+            </text>
+            <text id="Company-Details" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="470" y="349">Company Details</tspan>
+            </text>
+            <text id="Investor-Info-View" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="470" y="647">Investor </tspan>
+                <tspan x="470" y="660">Info View</tspan>
+            </text>
+            <text id="Footer" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="470" y="850">Footer</tspan>
+            </text>
+            <text id="Experience-Economy-O" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="0" y="205">Experience </tspan>
+                <tspan x="0" y="218">Economy</tspan>
+                <tspan x="0" y="231">Overview</tspan>
+            </text>
+            <text id="Entrepreneur-Info-Vi" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="0" y="501">Entrepreneur</tspan>
+                <tspan x="0" y="514">Info View</tspan>
+            </text>
+            <text id="About-team" font-family="Lato-Regular, Lato" font-size="11" font-weight="normal" fill="#05165C">
+                <tspan x="0" y="775">About team</tspan>
+            </text>
+        </g>
+        <g id="product-details" transform="translate(0.000000, 766.000000)"></g>
+        <g id="Experience-eco" transform="translate(-1.000000, 219.000000)"></g>
+        <g id="Group-6" transform="translate(-1.000000, -1.000000)">
+            <g id="footer" transform="translate(1.000000, 658.000000)">
+                <rect id="Rectangle" fill="#27325B" fill-rule="nonzero" x="0" y="0" width="442.691695" height="109.364207"></rect>
+                <text id="Footer-Info" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="173" y="61">Footer Info</tspan>
+                </text>
+            </g>
+            <g id="about-team" transform="translate(1.000000, 549.000000)">
+                <polygon id="Rectangle" fill="#323D74" fill-rule="nonzero" points="0 0 442.691695 0 442.691695 109.364207 0 109.364207"></polygon>
+                <text id="About-the-team" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="154" y="61">About the team</tspan>
+                </text>
+            </g>
+            <g id="investor-view" transform="translate(1.000000, 440.000000)">
+                <polygon id="Rectangle" fill="#4456A4" fill-rule="nonzero" points="0 0 442.691695 0 442.691695 109.364207 0 109.364207"></polygon>
+                <text id="Investor-Info-View" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="164" y="51">Investor Info </tspan>
+                    <tspan x="164" y="72">	View</tspan>
+                </text>
+            </g>
+            <g id="entrepreneur-view" transform="translate(0.000000, 331.000000)">
+                <polygon id="Rectangle" fill="#5465B8" fill-rule="nonzero" points="0 0 444 0 444 109 0 109"></polygon>
+                <text id="Entrepreneur-Info-Vi" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="167" y="51">Entrepreneur </tspan>
+                    <tspan x="167" y="72">   Info View</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#6070BC" fill-rule="nonzero" x="1" y="767" width="442.691695" height="109.364207"></rect>
+            <text id="Company-&amp;-Product-De" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                <tspan x="137" y="818">Company &amp; Product </tspan>
+                <tspan x="137" y="839">           Details</tspan>
+            </text>
+            <polygon id="Rectangle" fill="#7786C6" fill-rule="nonzero" points="0 220 444 220 444 331 0 331"></polygon>
+            <text id="Experience-Economy-O" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                <tspan x="131" y="272">Experience Economy </tspan>
+                <tspan x="131" y="293">         Overview</tspan>
+            </text>
+            <g id="Hero-Section" transform="translate(0.000000, 111.000000)">
+                <rect id="Rectangle" fill="#9CA6D6" fill-rule="nonzero" x="0" y="0" width="444" height="109"></rect>
+                <text font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="165.626966" y="61">Hero Section</tspan>
+                </text>
+            </g>
+            <g id="Page-Load">
+                <rect id="Rectangle" fill="#BBC6F0" fill-rule="nonzero" x="0" y="0" width="444" height="111"></rect>
+                <text font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                    <tspan x="173.608989" y="56">Page Load</tspan>
+                </text>
+            </g>
+            <g id="register" transform="translate(364.000000, 331.000000)">
+                <polygon id="Rectangle" fill="#4456A4" fill-rule="nonzero" points="0 0 79.4805195 0 79.4805195 111 0 111"></polygon>
+                <text id="Register" font-family="Roboto-Medium, Roboto" font-size="10.8" font-weight="400" letter-spacing="0.899999893" fill="#FFFFFF">
+                    <tspan x="15" y="57">Register</tspan>
+                </text>
+            </g>
+            <g id="invite" transform="translate(364.000000, 441.000000)">
+                <polygon id="Rectangle" fill="#3B498B" fill-rule="nonzero" points="0 0 80 0 80 108.586957 0 108.586957"></polygon>
+                <text id="Request-an-invite" font-family="Roboto-Medium, Roboto" font-size="10.8" font-weight="400" letter-spacing="0.899999893" fill="#FFFFFF">
+                    <tspan x="14" y="51">Request </tspan>
+                    <tspan x="14" y="65">an invite</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
