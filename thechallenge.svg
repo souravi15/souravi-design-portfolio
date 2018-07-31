@@ -6,15 +6,13 @@
     <defs></defs>
     <g id="Desktop-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle-27" fill="#F4F4F4" fill-rule="nonzero" x="0" y="0" width="1024" height="359"></rect>
-        <text id="Have-experienced-ste" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" line-spacing="21">
-            <tspan x="254" y="79" fill="#000000">Have experienced steady growth since launching one year ago and </tspan>
-            <tspan x="254" y="100" fill="#000000">expanded their SF offering to include NYC and Atlanta as well. FloraGoGo </tspan>
-            <tspan x="254" y="121" fill="#000000">hopes that their position as a </tspan>
-            <tspan x="462.619141" y="121" fill="#000000">mobile-first startup </tspan>
-            <tspan x="603.555664" y="121" fill="#000000">will allow them to </tspan>
-            <tspan x="254" y="142" fill="#000000">differentiate themselves, since many of their competitors focus on the </tspan>
-            <tspan x="254" y="163" fill="#000000">desktop experience.They believe the biggest room for growth comes </tspan>
-            <tspan x="254" y="184" fill="#000000">from focusing on these areas of the app experience.</tspan>
+        <text id="Have-experienced-ste" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" line-spacing="21" fill="#000000">
+            <tspan x="254" y="79">Have experienced steady growth since launching one year ago and </tspan>
+            <tspan x="254" y="100">expanded their SF offering to include NYC and Atlanta as well. FloraGoGo </tspan>
+            <tspan x="254" y="121">hopes that their position as a mobile-first startup will allow them to </tspan>
+            <tspan x="254" y="142">differentiate themselves, since many of their competitors focus on the </tspan>
+            <tspan x="254" y="163">desktop experience.They believe the biggest room for growth comes </tspan>
+            <tspan x="254" y="184">from focusing on these areas of the app experience.</tspan>
         </text>
         <text id="The-Challenge" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" fill="#000000">
             <tspan x="98" y="51">The Challenge</tspan>
