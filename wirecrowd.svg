@@ -118,37 +118,32 @@
         <g id="product-details" transform="translate(0.000000, 766.000000)"></g>
         <g id="Experience-eco" transform="translate(-1.000000, 219.000000)"></g>
         <g id="Group-6" transform="translate(-1.000000, -1.000000)">
-            <g id="footer" transform="translate(1.000000, 658.000000)">
+            <g id="footer" transform="translate(1.000000, 767.000000)">
                 <rect id="Rectangle" fill="#27325B" fill-rule="nonzero" x="0" y="0" width="442.691695" height="109.364207"></rect>
                 <text id="Footer-Info" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
                     <tspan x="173" y="61">Footer Info</tspan>
                 </text>
             </g>
-            <g id="about-team" transform="translate(1.000000, 549.000000)">
+            <g id="about-team" transform="translate(1.000000, 658.000000)">
                 <polygon id="Rectangle" fill="#323D74" fill-rule="nonzero" points="0 0 442.691695 0 442.691695 109.364207 0 109.364207"></polygon>
                 <text id="About-the-team" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
                     <tspan x="154" y="61">About the team</tspan>
                 </text>
             </g>
-            <g id="investor-view" transform="translate(1.000000, 440.000000)">
+            <g id="investor-view" transform="translate(1.000000, 549.000000)">
                 <polygon id="Rectangle" fill="#4456A4" fill-rule="nonzero" points="0 0 442.691695 0 442.691695 109.364207 0 109.364207"></polygon>
                 <text id="Investor-Info-View" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
                     <tspan x="164" y="51">Investor Info </tspan>
                     <tspan x="164" y="72">	View</tspan>
                 </text>
             </g>
-            <g id="entrepreneur-view" transform="translate(0.000000, 331.000000)">
+            <g id="entrepreneur-view" transform="translate(0.000000, 440.000000)">
                 <polygon id="Rectangle" fill="#5465B8" fill-rule="nonzero" points="0 0 444 0 444 109 0 109"></polygon>
                 <text id="Entrepreneur-Info-Vi" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
                     <tspan x="167" y="51">Entrepreneur </tspan>
                     <tspan x="167" y="72">   Info View</tspan>
                 </text>
             </g>
-            <rect id="Rectangle" fill="#6070BC" fill-rule="nonzero" x="1" y="767" width="442.691695" height="109.364207"></rect>
-            <text id="Company-&amp;-Product-De" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
-                <tspan x="137" y="818">Company &amp; Product </tspan>
-                <tspan x="137" y="839">           Details</tspan>
-            </text>
             <polygon id="Rectangle" fill="#7786C6" fill-rule="nonzero" points="0 220 444 220 444 331 0 331"></polygon>
             <text id="Experience-Economy-O" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
                 <tspan x="131" y="272">Experience Economy </tspan>
@@ -166,19 +161,24 @@
                     <tspan x="173.608989" y="56">Page Load</tspan>
                 </text>
             </g>
-            <g id="register" transform="translate(364.000000, 331.000000)">
+            <g id="register" transform="translate(364.000000, 440.000000)">
                 <polygon id="Rectangle" fill="#4456A4" fill-rule="nonzero" points="0 0 79.4805195 0 79.4805195 111 0 111"></polygon>
                 <text id="Register" font-family="Roboto-Medium, Roboto" font-size="10.8" font-weight="400" letter-spacing="0.899999893" fill="#FFFFFF">
                     <tspan x="15" y="57">Register</tspan>
                 </text>
             </g>
-            <g id="invite" transform="translate(364.000000, 441.000000)">
+            <g id="invite" transform="translate(364.000000, 550.000000)">
                 <polygon id="Rectangle" fill="#3B498B" fill-rule="nonzero" points="0 0 80 0 80 108.586957 0 108.586957"></polygon>
                 <text id="Request-an-invite" font-family="Roboto-Medium, Roboto" font-size="10.8" font-weight="400" letter-spacing="0.899999893" fill="#FFFFFF">
                     <tspan x="14" y="51">Request </tspan>
                     <tspan x="14" y="65">an invite</tspan>
                 </text>
             </g>
+            <rect id="Rectangle" fill="#6070BC" fill-rule="nonzero" x="1" y="331" width="442.691695" height="109.364207"></rect>
+            <text id="Company-&amp;-Product-De" font-family="Roboto-Medium, Roboto" font-size="16.3799994" font-weight="400" letter-spacing="1.36500035" fill="#FFFFFF">
+                <tspan x="137" y="382">Company &amp; Product </tspan>
+                <tspan x="137" y="403">           Details</tspan>
+            </text>
         </g>
     </g>
 </svg>

@@ -7,6 +7,18 @@ a{
 	text-decoration: none;
 }
 
+header a {
+	text-decoration: none;
+    background-color:  #C8FAF0;
+    padding: 6px;
+    border-radius: 3px;
+}
+
+header a:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+
 
 /* for mobile */
 @media (min-width: 320px) and (max-width: 600px) {
@@ -22,8 +34,13 @@ a{
  	.header-logo{
 	 	width: 100px;
 	    height: 100px;
-	    padding-bottom: 20px
- 	}
+	    margin-bottom: 20px;
+	    animation:rotate-center .6s ease-in-out both;
+	}
+
+	@keyframes rotate-center{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+
+
 
  	.header-nav-right{
  		display: flex;
@@ -33,7 +50,7 @@ a{
  	}
 
  	.header-case-studies{
-		padding-right: 50px;
+		margin-right: 50px;
 	}
   	.main-about{
 		width: 100%;
@@ -159,7 +176,11 @@ a{
 	width: 100px;
 	height: 100px;
 	margin: 30px 0 0 30px;
-}
+	animation:rotate-center .6s ease-in-out both;
+	}
+
+	@keyframes rotate-center{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+
 
 .header-nav-right{
 	float: right;
@@ -167,7 +188,7 @@ a{
 }
 
 .header-case-studies{
-padding-right: 80px;
+margin-right: 80px;
 }
 
 .main-about-availibility-color{
@@ -227,7 +248,7 @@ padding-right: 80px;
 .challenge,.challenge2{
     display: block;
     margin: 0 auto;
-    width: 500px;
+    width:80vw;
     text-align: center;
 }
 .case-studies-one-title,.case-studies-two-title{
@@ -343,8 +364,12 @@ footer{
 .header-logo{
 	width: 100px;
 	height: 100px;
-	margin: 30px 0 0 30px;
-}
+	margin: 30px;
+	animation:rotate-center .6s ease-in-out both;
+	}
+
+	@keyframes rotate-center{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+
 
 .header-nav-right{
 	float: right;
@@ -352,7 +377,7 @@ footer{
 }
 
 .header-case-studies{
-padding-right: 80px;
+margin-right: 80px;
 }
 
 .main-about-availibility-color{
@@ -370,12 +395,13 @@ padding-right: 80px;
     background-color: #F2F2F2;
 }
 
+
 .main-about-name{
 	font-family: 'Playfair Display', serif;
     font-size: 112px;
     text-align: center;
     padding-top: 246px;
-    margin-bottom: 0;
+    margin: 0;
 }
 .main-about-designation{
 	text-align: center;
@@ -533,8 +559,12 @@ footer{
 	.header-logo{
 	width: 100px;
 	height: 100px;
-	margin: 30px 0 0 30px;
+	margin: 30px;
+	animation:rotate-center .6s ease-in-out both;
 	}
+
+	@keyframes rotate-center{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+
 
 	.header-nav-right{
 		float: right;
@@ -542,7 +572,7 @@ footer{
 	}
 
 	.header-case-studies{
-	padding-right: 80px;
+	margin-right: 80px;
 	}
 
 	.main-about{
@@ -551,13 +581,14 @@ footer{
 	    margin: 0;
 	    background-color: #F2F2F2;
 	}
+	
 
 	.main-about-name{
 		font-family: 'Playfair Display', serif;
 	    font-size: 112px;
 	    text-align: center;
 	    padding-top: 246px;
-	    margin-bottom: 0;
+	    margin: 0;
 	}
 	.main-about-designation{
 		text-align: center;
