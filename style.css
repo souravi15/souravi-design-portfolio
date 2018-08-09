@@ -12,6 +12,7 @@ header a {
     background-color:  #C8FAF0;
     padding: 6px;
     border-radius: 3px;
+    color: black;
 }
 
 header a:hover{
@@ -501,8 +502,6 @@ margin-right: 80px;
 	max-width: 360px;
 	max-height:  616px;
 	border:2px solid black;
-	margin-right: 20px;
-	
 }
 
 .design-intro, .floristintro{
@@ -527,7 +526,6 @@ margin-right: 80px;
 .crowdgif{
 
 	width: 534px;
-    margin-left: 20%;
 }
 
 footer{
@@ -696,7 +694,7 @@ footer{
 		max-width: 360px;
 		max-height:  616px;
 		border:2px solid black;
-		margin-right: 20px;
+		
 		
 	}
 
@@ -723,7 +721,6 @@ footer{
 	.crowdgif{
 		width: 1024px;
 		width: 604px;
-    margin-left: 15%;
 	}
 
 	footer{
@@ -750,4 +747,43 @@ footer{
 	    font-size: 10px;
 		}
 	
+}
+
+
+.casestudies{
+	margin:0 auto;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.caseone,.casetwo{
+	margin: 0 auto;
+}
+
+.caseone h1,.casetwo h1{
+	box-sizing: border-box;
+    width: 300px;
+    margin: 30px auto;
+	text-align: center;
+    border: 2px solid aquamarine;
+    padding: 10px;
+    background-color: white;
+}
+
+.caseone img{
+	border: 6px solid;
+    border-radius: 20px;
+}
+
+
+.caseone a h1, .casetwo a h1{
+	text-decoration: none;
+	color: black;
+	background-color: aquamarine;
+}
+.caseone a:hover h1, .casetwo a:hover h1{
+	background-color: #000000;
+	color: #ffffff;
 }
